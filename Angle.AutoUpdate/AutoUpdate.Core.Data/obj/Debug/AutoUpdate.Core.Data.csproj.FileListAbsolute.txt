@@ -1,0 +1,4 @@
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Core.Data\bin\Debug\AutoUpdate.Core.Data.dll
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Core.Data\bin\Debug\AutoUpdate.Core.Data.pdb
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Core.Data\obj\Debug\AutoUpdate.Core.Data.dll
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Core.Data\obj\Debug\AutoUpdate.Core.Data.pdb

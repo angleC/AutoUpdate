@@ -1,0 +1,10 @@
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdateServiceAccess\bin\Debug\Log\log4net.config
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdateServiceAccess\bin\Debug\Services.config
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdateServiceAccess\bin\Debug\AutoUpdateServiceAccess.dll
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdateServiceAccess\bin\Debug\AutoUpdateServiceAccess.pdb
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdateServiceAccess\bin\Debug\AutoUpdate.Tools.dll
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdateServiceAccess\bin\Debug\log4net.dll
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdateServiceAccess\obj\Debug\AutoUpdateServiceAccess.csprojResolveAssemblyReference.cache
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdateServiceAccess\obj\Debug\AutoUpdateServiceAccess.dll
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdateServiceAccess\obj\Debug\AutoUpdateServiceAccess.pdb
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdateServiceAccess\bin\Debug\AutoUpdate.Tools.pdb

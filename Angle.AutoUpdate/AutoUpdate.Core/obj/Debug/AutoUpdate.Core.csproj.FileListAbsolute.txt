@@ -1,0 +1,13 @@
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Core\bin\Debug\Log\log4net.config
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Core\bin\Debug\AutoUpdate.Core.dll
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Core\bin\Debug\AutoUpdate.Core.pdb
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Core\bin\Debug\AutoUpdate.Core.Data.dll
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Core\bin\Debug\AutoUpdate.ICore.dll
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Core\bin\Debug\AutoUpdate.Tools.dll
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Core\bin\Debug\AutoUpdate.Core.Data.pdb
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Core\bin\Debug\AutoUpdate.ICore.pdb
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Core\obj\Debug\AutoUpdate.Core.csprojResolveAssemblyReference.cache
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Core\obj\Debug\AutoUpdate.Core.dll
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Core\obj\Debug\AutoUpdate.Core.pdb
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Core\bin\Debug\log4net.dll
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Core\bin\Debug\AutoUpdate.Tools.pdb

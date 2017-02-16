@@ -1,0 +1,9 @@
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.ICore\bin\Debug\AutoUpdate.ICore.dll
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.ICore\bin\Debug\AutoUpdate.ICore.pdb
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.ICore\bin\Debug\AutoUpdate.Core.Data.dll
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.ICore\bin\Debug\AutoUpdate.Core.Data.pdb
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Server\bin\Debug\AutoUpdate.ICore.dll
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Server\bin\Debug\AutoUpdate.ICore.pdb
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.ICore\obj\Debug\AutoUpdate.ICore.csprojResolveAssemblyReference.cache
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.ICore\obj\Debug\AutoUpdate.ICore.dll
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.ICore\obj\Debug\AutoUpdate.ICore.pdb

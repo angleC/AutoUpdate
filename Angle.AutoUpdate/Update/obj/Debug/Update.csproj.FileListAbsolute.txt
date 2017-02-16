@@ -1,0 +1,14 @@
+L:\Project Src\DotNet\Angle.AutoUpdate\Update\bin\Debug\Update.exe
+L:\Project Src\DotNet\Angle.AutoUpdate\Update\bin\Debug\Update.pdb
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Client\bin\Debug\Log\log4net.config
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Client\bin\Debug\Services.config
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Client\bin\Debug\Update.exe
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Client\bin\Debug\Update.pdb
+L:\Project Src\DotNet\Angle.AutoUpdate\Update\obj\Debug\Update.csprojResolveAssemblyReference.cache
+L:\Project Src\DotNet\Angle.AutoUpdate\Update\obj\Debug\Update.DownloadUpdateFile.resources
+L:\Project Src\DotNet\Angle.AutoUpdate\Update\obj\Debug\Update.Properties.Resources.resources
+L:\Project Src\DotNet\Angle.AutoUpdate\Update\obj\Debug\Update.Update.resources
+L:\Project Src\DotNet\Angle.AutoUpdate\Update\obj\Debug\Update.UpdateDescription.resources
+L:\Project Src\DotNet\Angle.AutoUpdate\Update\obj\Debug\Update.csproj.GenerateResource.Cache
+L:\Project Src\DotNet\Angle.AutoUpdate\Update\obj\Debug\Update.exe
+L:\Project Src\DotNet\Angle.AutoUpdate\Update\obj\Debug\Update.pdb

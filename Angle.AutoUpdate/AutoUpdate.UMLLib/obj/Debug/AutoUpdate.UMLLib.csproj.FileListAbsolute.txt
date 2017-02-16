@@ -1,0 +1,5 @@
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.UMLLib\bin\Debug\AutoUpdate.UMLLib.dll
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.UMLLib\bin\Debug\AutoUpdate.UMLLib.pdb
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.UMLLib\obj\Debug\AutoUpdate.UMLLib.dll
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.UMLLib\obj\Debug\AutoUpdate.UMLLib.pdb
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.UMLLib\obj\Debug\AutoUpdate.UMLLib.csprojResolveAssemblyReference.cache

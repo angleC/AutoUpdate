@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logicalClassDesignerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" dslVersion="1.0.0.0" Id="77430156-864b-4ae3-8a0a-032dd86833ab" name="AutoUpdate.Client" linkedPackageId="d0705ef8-7ab4-4a9f-9ac9-0c2f5495a7f5" xmlns="http://schemas.microsoft.com/dsltools/LogicalClassDesigner">
+  <appliedStereotypesInternal>
+    <stereotypeInstance Id="6dca4cf5-fb5b-4d75-822d-7162f086d2b6" name="namespace" profile="CSharpProfile">
+      <elementDefinition Id="24bd09f8-4d80-4cf6-8f2d-0a76f41d1cb3" />
+      <propertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="369f6025-2180-4602-977d-93783030c6af">
+          <propertyInstance Id="996962cc-b817-408f-bfb3-4473f6dc474c" name="BaseName">
+            <elementDefinition Id="e88a3fef-f11f-4d8c-b949-2e7a7fe5fde2" />
+          </propertyInstance>
+          <elementDefinition Id="07a0b1ac-1acc-482e-a590-b47a6144113d" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="33ab61d7-3ec5-43a7-8673-54f9693c779c">
+          <propertyInstance Id="9768e9fb-7059-40e2-8a4e-33a90411e08e" name="ClrAttributes">
+            <elementDefinition Id="d7f077b8-0c8a-4589-a46d-8ae188c21b9b" />
+          </propertyInstance>
+          <elementDefinition Id="60ebc17f-6ca3-492e-b541-83f18800a47a" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="e0a210c8-a026-4d07-b1d5-801ce445df97">
+          <propertyInstance Id="c4c27fdf-7750-4e1c-96d5-54fc553d4c9b" name="Usings">
+            <elementDefinition Id="3103bd4e-45fe-4e51-ab63-3e97a3f93421" />
+          </propertyInstance>
+          <elementDefinition Id="5c21c8eb-d980-44f1-bb3f-6fc900698be4" />
+        </stereotypeInstanceHasPropertyInstances>
+      </propertyInstances>
+    </stereotypeInstance>
+    <stereotypeInstance Id="7b57ad5a-fc9a-40f7-b8c5-836c503c1451" name="TextTemplateBindings" profile="TextTemplateBindings">
+      <elementDefinition Id="67937468-3902-4858-b255-8b787579ccae" />
+      <propertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="e8c9fb22-3611-44d5-a22f-f5fd1719d0fc">
+          <propertyInstance Id="a7eaa5e0-f535-4a20-90e1-7261a87ef1c1" name="Alias" value="ClassTemplate|EnumTemplate|InterfaceTemplate|StructTemplate">
+            <elementDefinition Id="8e0cb391-846e-4f9a-ad0f-10bdfedb1497" />
+          </propertyInstance>
+          <elementDefinition Id="0456d792-0586-4e6a-af32-e35ffb0e16a9" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="1036894f-b9a4-42d2-b1fa-6496f94ebcc8">
+          <propertyInstance Id="4c1b9966-c7c7-4930-ad50-c31102f96856" name="TemplateFilePath" value="ClassTemplate=D:\PROGRAM FILES\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4|EnumTemplate=D:\PROGRAM FILES\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\EnumTemplate.t4|InterfaceTemplate=D:\PROGRAM FILES\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\InterfaceTemplate.t4|StructTemplate=D:\PROGRAM FILES\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4">
+            <elementDefinition Id="8d90105d-1c1d-40f4-8a8e-515d711acd80" />
+          </propertyInstance>
+          <elementDefinition Id="741320e1-beed-4351-a87c-dbc0ff60ed9d" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="f18fe8c2-297d-4c86-b9ef-2c3747dd7c13">
+          <propertyInstance Id="b4c1e83d-94d3-4a65-8828-9c70db206de3" name="ProjectPath" value="ClassTemplate=..\AutoUpdate.UMLLib\AutoUpdate.UMLLib.csproj|EnumTemplate=..\AutoUpdate.UMLLib\AutoUpdate.UMLLib.csproj|InterfaceTemplate=..\AutoUpdate.UMLLib\AutoUpdate.UMLLib.csproj|StructTemplate=..\AutoUpdate.UMLLib\AutoUpdate.UMLLib.csproj">
+            <elementDefinition Id="6339783b-26a5-49f4-927a-9a3620d90ad0" />
+          </propertyInstance>
+          <elementDefinition Id="77ff0bee-2b59-4649-b87c-d1d63b1fc9d1" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="8b824d8b-096d-4c2c-9812-b8423678cb43">
+          <propertyInstance Id="10f9a218-29fb-4bfd-baed-4f5c2247d694" name="TargetDirectory" value="ClassTemplate=GeneratedCode\{PackageStructure}|EnumTemplate=GeneratedCode\{PackageStructure}|InterfaceTemplate=GeneratedCode\{PackageStructure}|StructTemplate=GeneratedCode\{PackageStructure}">
+            <elementDefinition Id="d8d46f12-a753-4707-9bc5-848099a32cc0" />
+          </propertyInstance>
+          <elementDefinition Id="b3b434f5-ebe8-4cc7-a1a5-cc4a4249106c" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="c23ae9b1-7a85-4cb7-9c73-05883d139fb8">
+          <propertyInstance Id="ce7458bd-a36c-40e6-a63b-aa0be030ca1b" name="TargetName" value="ClassTemplate={Name}|EnumTemplate={Name}|InterfaceTemplate={Name}|StructTemplate={Name}">
+            <elementDefinition Id="f560ec63-f212-4d53-8e3e-e110b12630da" />
+          </propertyInstance>
+          <elementDefinition Id="bb408b80-c13a-4c6a-ac3c-a5ad7bfa7c5c" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="78ce6636-aab3-459e-b196-c15048b7ab76">
+          <propertyInstance Id="37172807-6470-4ec2-b6d9-1706c3493505" name="Overwrite" value="ClassTemplate=True|EnumTemplate=True|InterfaceTemplate=True|StructTemplate=True">
+            <elementDefinition Id="1d6bf4b3-5759-42f1-90fe-c35c330a4035" />
+          </propertyInstance>
+          <elementDefinition Id="e19fd2be-b96a-4351-bd80-887e86b427cb" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="bd8968ec-77af-427b-863b-f7bb3b85397f">
+          <propertyInstance Id="6709c07e-3f21-4ebb-a2ae-3fe14b9179f1" name="Parameters">
+            <elementDefinition Id="b4521e81-b67c-42c2-baa4-7cc4c0c3c4d6" />
+          </propertyInstance>
+          <elementDefinition Id="c39f4994-a44e-43ab-93a7-2ed20bb6afc2" />
+        </stereotypeInstanceHasPropertyInstances>
+      </propertyInstances>
+    </stereotypeInstance>
+  </appliedStereotypesInternal>
+  <profileInstances>
+    <packageHasProfileInstances Id="9fedf5e8-979c-4fb4-8aad-73285f8eb23e">
+      <profileInstance Id="c792a8bc-ad88-4dec-b0e4-573ffd2bdeef" name="StandardProfileL2">
+        <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+      </profileInstance>
+      <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="bc11cf68-b283-4803-8df5-071b600a1d65">
+      <profileInstance Id="533d972f-7721-4f85-8490-f925a03576b3" name="StandardProfileL3">
+        <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+      </profileInstance>
+      <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="9302b057-e7d2-466e-96da-bd3e6569da13">
+      <profileInstance Id="e68a6915-8da7-4558-897d-dd86c07cb137" name="CSharpProfile">
+        <elementDefinition Id="c5435540-7ec5-4c65-85a5-0b17fb1d9539" />
+      </profileInstance>
+      <elementDefinition Id="edc82da0-2c26-4a4d-8e17-af8fe175d472" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="6c7e7f00-91ea-4c7e-ab68-788a6b4cedf8">
+      <profileInstance Id="047cf079-c986-440d-9e6b-c05d2003ad87" name="TextTemplateBindings">
+        <elementDefinition Id="1d725bbe-dea5-48cb-a5e5-94d71d61090b" />
+      </profileInstance>
+      <elementDefinition Id="b4b95f02-bdb0-4baa-91ef-fc56cfe93b0c" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <logicalClassDesignerModelHasTypes>
+      <Interface Id="11031cc2-5375-4457-b496-e063087e8d0b" name="IUpdateSystem" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="09dff263-6d27-475c-886d-4939e3978923" />
+        <ownedOperations>
+          <operation Id="ca2e6d47-ea6b-423e-8d5a-75c395daaf09" name="UpdateClient" isLeaf="false" isStatic="false" isAbstract="true" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="52503f67-60de-4e9b-9fd9-7fdf7de0465d" />
+          </operation>
+          <operation Id="c5a964c3-c5a1-4dd4-b9f9-82856a8505d8" name="CheckVersion" isLeaf="false" isStatic="false" isAbstract="true" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="82b4325b-6c95-4d5b-a7c8-d0d21266274a" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="e358b670-1fbd-4c0c-9a1d-7298d1eb6438" name="version" direction="In">
+                  <description>当前客户端版本</description>
+                  <elementDefinition Id="46c76c8f-8374-44c6-bded-738dfe7f15f2" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="8dcb4952-1efe-449c-91ca-4438cc34770e" LastKnownName="String" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="1959fefa-1183-4429-9eda-bd89f656492d" name="UpdateVersion" isLeaf="false" isStatic="false" isAbstract="true" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="8d1e6893-0db9-4153-b50a-4e272e205c7a" />
+          </operation>
+          <operation Id="84256f57-da8c-41fc-a862-cd28bcb89cc0" name="GetServerUpdateConfig" isLeaf="false" isStatic="false" isAbstract="true" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="aa887f05-ba3c-4429-9b99-202bfc84bb3a" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="0b964c40-8256-40ca-bc84-f95e8f0fbad8" direction="Return">
+                  <description>返回更新配置文件，XML格式</description>
+                  <elementDefinition Id="0db1e23f-0708-4953-a53a-1b939730cb4f" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="ba896147-d9e9-4d32-8f1d-cecaf7cd0c74" LastKnownName="String" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+        </ownedOperations>
+      </Interface>
+    </logicalClassDesignerModelHasTypes>
+    <packageHasNamedElement>
+      <referencedType Id="8dcb4952-1efe-449c-91ca-4438cc34770e" name="String" isAbstract="false" isLeaf="false" cachedFullName="String">
+        <elementDefinition Id="59259974-6d55-42c6-b7bd-763d77ac8ef9" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="ba896147-d9e9-4d32-8f1d-cecaf7cd0c74" name="String" isAbstract="false" isLeaf="false" cachedFullName="String">
+        <elementDefinition Id="59259974-6d55-42c6-b7bd-763d77ac8ef9" />
+      </referencedType>
+    </packageHasNamedElement>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="54755333-6cab-4d20-ba5e-c43af12c33a7" name="UpdateSystem" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="1ddfa627-5258-4c23-b8a5-b31cc703058d" />
+        <suppliersInternal>
+          <interfaceRealization Id="6e74d61f-8d67-4aec-8310-68adbaccca44">
+            <interfaceMoniker Id="11031cc2-5375-4457-b496-e063087e8d0b" LastKnownName="IUpdateSystem" />
+            <elementDefinition Id="82abb387-715d-4caf-9efb-79844f5dd616" />
+          </interfaceRealization>
+        </suppliersInternal>
+        <ownedAttributesInternal>
+          <property Id="0c5a3bed-6c25-4e8c-920b-6bda9e29fff2" name="serverUpdateConfig" visibility="Private" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="8879265f-8c2b-493f-b795-926443723cbb" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="2abcf472-b132-4cc8-a766-a3392fc7a4cc" LastKnownName="String" />
+            </type_NamedElement>
+          </property>
+        </ownedAttributesInternal>
+        <ownedOperationsInternal>
+          <operation Id="ff6582a8-0641-4ec4-984d-75040c587d3f" name="UpdateClient" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="8a4de3cd-8dcc-4128-b030-17e34f13014e" />
+          </operation>
+          <operation Id="7eb46b09-6fb1-4c76-ab93-d0fca933141c" name="CheckVersion" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="7021c92a-3283-4292-938f-ae52422cbbd6" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="0174ee42-26cc-40f3-85ed-0354ca6fc11e" name="version" direction="In">
+                  <description>当前客户端版本</description>
+                  <elementDefinition Id="a96a5930-6ce7-445e-8a41-14e612e03f9c" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="8dcb4952-1efe-449c-91ca-4438cc34770e" LastKnownName="String" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="8b6e0854-767d-4548-bb6b-ec0df07503bc" name="UpdateVersion" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="b48a4125-6ac5-4aea-a85a-7e34a01c478b" />
+          </operation>
+          <operation Id="5464544e-3881-4449-936b-6cfea5a626dc" name="GetServerUpdateConfig" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="2f9b26c5-33da-49e7-ba57-2d18c991b010" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="67132f6c-1823-490b-8f05-a903c46552d2" direction="Return">
+                  <description>返回更新配置文件，XML格式</description>
+                  <elementDefinition Id="09134bce-bea9-485a-bf5b-5ce6bd56f730" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="8dcb4952-1efe-449c-91ca-4438cc34770e" LastKnownName="String" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+        </ownedOperationsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <packageHasNamedElement>
+      <referencedType Id="2abcf472-b132-4cc8-a766-a3392fc7a4cc" name="String" isAbstract="false" isLeaf="false" cachedFullName="String">
+        <elementDefinition Id="59259974-6d55-42c6-b7bd-763d77ac8ef9" />
+      </referencedType>
+    </packageHasNamedElement>
+  </packagedElements>
+  <package Id="d0705ef8-7ab4-4a9f-9ac9-0c2f5495a7f5" name="AutoUpdate.UML">
+    <elementDefinition Id="251d3ea3-e4d7-47b6-95f2-e1bd45562df3" />
+  </package>
+</logicalClassDesignerModel>

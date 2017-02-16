@@ -1,0 +1,8 @@
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Tools\bin\Debug\AutoUpdate.Tools.dll
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Tools\bin\Debug\AutoUpdate.Tools.pdb
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Server\bin\Debug\Log\log4net.config
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Server\bin\Debug\AutoUpdate.Tools.dll
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Server\bin\Debug\AutoUpdate.Tools.pdb
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Tools\obj\Debug\AutoUpdate.Tools.dll
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Tools\obj\Debug\AutoUpdate.Tools.pdb
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Tools\bin\Debug\Log\log4net.config

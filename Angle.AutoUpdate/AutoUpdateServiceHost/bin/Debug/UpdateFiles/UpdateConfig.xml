@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<UpdateConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ConfigInfo>
+    <UpdateDate>2017-02-16T10:44:59.6844428+08:00</UpdateDate>
+    <CurrentVersion>0.0.0.1</CurrentVersion>
+    <Description />
+    <ForceUpdate>false</ForceUpdate>
+    <ServerBak>true</ServerBak>
+    <RollBack>true</RollBack>
+  </ConfigInfo>
+  <Files>
+    <file name="新建文本文档 (2).txt" size="0" relativepath="\" />
+    <file name="新建文本文档 (3).txt" size="0" relativepath="\" />
+    <file name="新建文本文档.txt" size="0" relativepath="\" />
+    <file name="新建文本文档 (2).txt" size="0" relativepath="\新建文件夹\" />
+    <file name="新建文本文档.txt" size="0" relativepath="\新建文件夹\" />
+    <file name="新建文本文档 (2).txt" size="0" relativepath="\新建文件夹\新建文件夹\" />
+    <file name="新建文本文档 (3).txt" size="0" relativepath="\新建文件夹\新建文件夹\" />
+    <file name="新建文本文档.txt" size="0" relativepath="\新建文件夹\新建文件夹\" />
+    <file name="新建 Microsoft Office Publisher 文档.pub" size="59904" relativepath="\新建文件夹 (2)\" />
+    <file name="新建 Microsoft Office Visio 绘图.vsd" size="0" relativepath="\新建文件夹 (2)\" />
+  </Files>
+</UpdateConfig>

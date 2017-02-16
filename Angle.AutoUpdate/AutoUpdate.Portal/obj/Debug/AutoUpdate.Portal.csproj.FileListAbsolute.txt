@@ -1,0 +1,16 @@
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Portal\bin\Debug\Log\log4net.config
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Portal\bin\Debug\Services.config
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Portal\bin\Debug\AutoUpdate.Portal.dll
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Portal\bin\Debug\AutoUpdate.Portal.pdb
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Portal\bin\Debug\AutoUpdate.Core.Data.dll
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Portal\bin\Debug\AutoUpdate.ICore.dll
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Portal\bin\Debug\AutoUpdate.Tools.dll
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Portal\bin\Debug\AutoUpdateServiceAccess.dll
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Portal\bin\Debug\log4net.dll
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Portal\bin\Debug\AutoUpdate.Core.Data.pdb
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Portal\bin\Debug\AutoUpdate.ICore.pdb
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Portal\bin\Debug\AutoUpdate.Tools.pdb
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Portal\bin\Debug\AutoUpdateServiceAccess.pdb
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Portal\obj\Debug\AutoUpdate.Portal.csprojResolveAssemblyReference.cache
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Portal\obj\Debug\AutoUpdate.Portal.dll
+L:\Project Src\DotNet\Angle.AutoUpdate\AutoUpdate.Portal\obj\Debug\AutoUpdate.Portal.pdb

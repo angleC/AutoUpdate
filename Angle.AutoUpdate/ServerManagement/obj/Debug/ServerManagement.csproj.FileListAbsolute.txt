@@ -1,0 +1,6 @@
+L:\Project Src\DotNet\Angle.AutoUpdate\ServerManagement\obj\Debug\ServerManagement.csprojResolveAssemblyReference.cache
+L:\Project Src\DotNet\Angle.AutoUpdate\ServerManagement\obj\Debug\AutoUpdateServer.AutoUpdateServiceManager.resources
+L:\Project Src\DotNet\Angle.AutoUpdate\ServerManagement\obj\Debug\ServerManagement.Properties.Resources.resources
+L:\Project Src\DotNet\Angle.AutoUpdate\ServerManagement\obj\Debug\ServerManagement.csproj.GenerateResource.Cache
+L:\Project Src\DotNet\Angle.AutoUpdate\ServerManagement\obj\Debug\AutoUpdateServer.UpdateFileResult.resources
+L:\Project Src\DotNet\Angle.AutoUpdate\ServerManagement\obj\Debug\AutoUpdateServer.UpdateFileToServer.resources
