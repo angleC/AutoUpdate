@@ -21,3 +21,5 @@ L:\Project Src\DotNet\Angle.AutoUpdate\ServerManagement\obj\Debug\ServerManageme
 L:\Project Src\DotNet\Angle.AutoUpdate\ServerManagement\bin\Debug\AutoUpdate.Tools.pdb
 L:\Project Src\DotNet\Angle.AutoUpdate\ServerManagement\bin\Debug\AutoUpdate.Portal.dll
 L:\Project Src\DotNet\Angle.AutoUpdate\ServerManagement\bin\Debug\AutoUpdate.Portal.pdb
+L:\GitRepository\Angle.AutoUpdate\ServerManagement\obj\Debug\ServerManagement.exe
+L:\GitRepository\Angle.AutoUpdate\ServerManagement\obj\Debug\ServerManagement.pdb
